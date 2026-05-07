@@ -266,16 +266,3 @@ data/vector_store/
 .DS_Store
 ```
 
-## License
-
-Add your project license here.
-
-Example:
-
-```text
-MIT License
-```
-
-## Author
-
-Add your name or team name here.
